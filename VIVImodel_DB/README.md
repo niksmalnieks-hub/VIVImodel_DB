@@ -1,1 +1,1 @@
-Programma vilcienu informācijas glabāšanai un pārvaldīšanai. Tā ļauj pievienot vilcienus datubāzei, norādot modeļa nosaukumu, numuru, uzbūves gadu, kategoriju un papildu informāciju. Saglabātos vilcienus var apskatīt programmas logā. Palaišana: python main.py
+Programma vilcienu informācijas glabāšanai un pārvaldīšanai. Tā ļauj pievienot vilcienus datubāzei, norādot modeļa nosaukumu, numuru, uzbūves gadu, kategoriju un papildu informāciju. Saglabātos vilcienus var apskatīt programmas logā. Palaišana: python app.py
